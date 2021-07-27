@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "probonto"
+version = "0.1.0"
+description = ""
+authors = ["Kusti Skytén <kskyten@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+rdflib = "^6.0.0"
+Owlready2 = "^0.33"
+ebi-ols-client = "^1.1.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+ipython = "^7.25.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

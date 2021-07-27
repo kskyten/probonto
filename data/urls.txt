@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/probonto/ontology/master/release/probonto-v2.5.owl
+https://raw.githubusercontent.com/probonto/ontology/master/probonto4ols.owl
